@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Praveengsgsp
-- 👀 I’m interested in deep learning on Data science and machine learning.
+- 👀 I’m interested in deeplearning of AI and ML.
 - 🌱 I’m currently learning full stack web development and python.
 - 💞️ I’m looking to collaborate on python and javascript.
 - 📫 How to reach me praveengs7gsp@gmail.com
